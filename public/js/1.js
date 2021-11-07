@@ -1,7 +1,3 @@
-console.log('this is code executed from 1.js');
-
-
-
 const weatherForm= document.querySelector('form');
 const loc= document.querySelector('input');
 const msg1= document.querySelector('#msg-1');
